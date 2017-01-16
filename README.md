@@ -1,8 +1,8 @@
-# WatBot - An Android ChatBot powered by IBM Watson
+# ChatBot - A Voice-enabled native Android app powered by IBM Watson Services on IBM Bluemix
 
 [![Build Status](https://travis-ci.org/VidyasagarMSC/WatBot.svg?branch=master)](https://travis-ci.org/VidyasagarMSC/WatBot)
 
-WatBot is an IBM Watson powered ChatBot running on <a href="https://ibm.biz/droidlink" target="_blank">Android</a> and using Conversation Service on IBM <a href="https://Bluemix.net" target="_blank">Bluemix</a> (an open standards, cloud platform for building, running, and managing apps and services).
+ChatBot is an <a href="https://ibm.biz/droidlink" target="_blank">Android</a> native app powered by IBM [Watson](https://www.ibm.com/watson/developercloud/) Conversation and Text-to-Speech services on IBM <a href="https://Bluemix.net" target="_blank">Bluemix</a> (an open standards, cloud platform for building, running, and managing apps and services).
 <p align="center"><img src="images/WatBot_5X.png" width="350" /></p>
 
 <h2>Coding the app on Android Studio</h2>
@@ -207,6 +207,8 @@ compile 'com.ibm.watson.developer_cloud:android-sdk:0.2.1'
 
 If you have followed all the above instructions, you should be happily chatting with your Wat(son)Bot. 
 
-** Remember your bot will be talking to your Conversation Service (Intents, Entities and Dialog).**
+** Remember your bot will be talking to your Conversation Service (Intents, Entities and Dialog) on Bluemix**
+
+For integrating other Cognitive Services, Refer [Watson Developer Cloud](https://www.ibm.com/watson/developercloud/)
 
 ### Don't stop here!!! Keep coding and using Bluemix
