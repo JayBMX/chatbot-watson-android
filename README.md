@@ -1,6 +1,6 @@
 # ChatBot - A Voice-enabled native Android app powered by IBM Watson Services on IBM Bluemix
 
-[![Build Status](https://travis-ci.org/VidyasagarMSC/WatBot.svg?branch=master)](https://travis-ci.org/VidyasagarMSC/WatBot)
+[![Build Status](https://travis-ci.org/IBM-Bluemix/chatbot-watson-android.svg?branch=master)](https://travis-ci.org/IBM-Bluemix/chatbot-watson-android)
 
 ChatBot is an <a href="https://ibm.biz/droidlink" target="_blank">Android</a> native app powered by IBM [Watson](https://www.ibm.com/watson/developercloud/) Conversation and Text-to-Speech services on IBM <a href="https://Bluemix.net" target="_blank">Bluemix</a> (an open standards, cloud platform for building, running, and managing apps and services).
 <p align="center"><img src="images/WatBot_5X.png" width="350" /></p>
