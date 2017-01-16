@@ -2,10 +2,8 @@
 
 [![Build Status](https://travis-ci.org/VidyasagarMSC/WatBot.svg?branch=master)](https://travis-ci.org/VidyasagarMSC/WatBot)
 
-WatBot is an IBM Watson powered ChatBot running on <a href="http://vidyasagarmsc.com/tag/android/" target="_blank">Android</a> and using Conversation Service on IBM <a href="http://vidyasagarmsc.com/category/cloud/" target="_blank">Bluemix</a> (an open standards, cloud platform for building, running, and managing apps and services).
+WatBot is an IBM Watson powered ChatBot running on <a href="https://ibm.biz/droidlink" target="_blank">Android</a> and using Conversation Service on IBM <a href="https://Bluemix.net" target="_blank">Bluemix</a> (an open standards, cloud platform for building, running, and managing apps and services).
 <p align="center"><img src="images/WatBot_5X.png" width="350" /></p>
-
-Check this [blog post](http://vidyasagarmsc.com/an-android-chatbot-powered-by-ibm-watson/) for step-by-step instructions. 
 
 <h2>Coding the app on Android Studio</h2>
 Android Studio is the Official IDE for Android. Android Studio provides the fastest tools for building apps on every type of Android device.
@@ -13,7 +11,7 @@ Android Studio is the Official IDE for Android. Android Studio provides the fast
 Clone the repo and import the code in Android Studio,
 
 ```
-git clone https://github.com/VidyasagarMSC/WatBot.git
+git clone https://github.com/IBM-Bluemix/chatbot-watson-android.git
 ```
 
 ## Creation of Conversation Service
@@ -38,7 +36,7 @@ Check the “Pricing Plans” for data limits for the Conversation service</li>
 
 
 <h3>Creating a Workspace</h3>
-You use the Conversation tool to create workspaces by either creating a new workspace from scratch, or  by importing a workspace from a [JSON](https://github.com/VidyasagarMSC/WatBot/blob/master/sample.json) file. You can also duplicate an existing workspace within the same service instance.
+You use the Conversation tool to create workspaces by either creating a new workspace from scratch, or  by importing a workspace from a [JSON](https://github.com/IBM-Bluemix/chatbot-watson-android/blob/master/sample.json) file. You can also duplicate an existing workspace within the same service instance.
 <ol>
  	<li>If the Service Details page is not already open, click your Conversation service instance on the Bluemix console. (When you create a service instance, the Service Details page displays.)</li>
  	<li>On the “Service Details” page, scroll down to <strong>Conversation tooling</strong> and click <strong>Launch tool</strong>.</li>
