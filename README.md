@@ -212,3 +212,7 @@ If you have followed all the above instructions, you should be happily chatting 
 For integrating other Cognitive Services, Refer [Watson Developer Cloud](https://www.ibm.com/watson/developercloud/)
 
 ### Don't stop here!!! Keep coding and using Bluemix
+
+## License
+
+See [License.txt](https://github.com/IBM-Bluemix/chatbot-watson-android/blob/master/License.txt) for license information.
